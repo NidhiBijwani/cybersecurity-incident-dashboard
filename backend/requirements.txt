@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+scikit-learn
+pandas
+numpy
+python-multipart
+python-jose[cryptography]
+pwdlib[argon2]
+joblib
+pytest
+httpx2
